@@ -1,0 +1,144 @@
+23:02:31.698 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:02:38.520 [main] INFO  testCases.TC_002_LoginTest - Enter Valid Credentials
+23:02:41.407 [main] INFO  testCases.TC_002_LoginTest - Validate MyAccount Header Message in My Account Page
+23:02:41.552 [main] INFO  testCases.TC_002_LoginTest - *****Finished login Test*****
+23:05:04.339 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:05:36.602 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:05:43.977 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:06:14.158 [main] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:06:14.158 [main] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
+23:06:18.948 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:06:49.226 [main] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:06:49.227 [main] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
+23:07:39.435 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:07:43.720 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:08:21.893 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:08:37.981 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:13:53.452 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:14:52.643 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:15:22.721 [main] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:15:22.722 [main] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
+23:15:33.977 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:16:01.908 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:19:12.956 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:20:09.306 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:20:17.587 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:20:19.578 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:20:19.756 [main] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:20:22.159 [main] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:20:22.200 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:20:33.962 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:20:48.402 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:20:48.486 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:20:48.694 [main] INFO  testCases.TC_002_LoginTest - Enter Valid Credentials
+23:20:49.537 [main] INFO  testCases.TC_002_LoginTest - Validate MyAccount Header Message in My Account Page
+23:20:49.584 [main] INFO  testCases.TC_002_LoginTest - *****Finished login Test*****
+23:21:54.331 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:22:07.063 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:22:07.514 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:22:08.948 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:22:09.066 [main] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:22:10.131 [main] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:22:10.177 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:22:12.562 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:22:26.372 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:22:26.454 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:22:26.654 [main] INFO  testCases.TC_002_LoginTest - Enter Valid Credentials
+23:22:27.403 [main] INFO  testCases.TC_002_LoginTest - Validate MyAccount Header Message in My Account Page
+23:22:27.468 [main] INFO  testCases.TC_002_LoginTest - *****Finished login Test*****
+23:26:01.166 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:26:14.622 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:26:23.925 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:26:25.782 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:26:25.782 [main] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:26:26.821 [main] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:26:26.860 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:26:30.303 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:26:52.125 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:26:52.206 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:26:52.498 [main] INFO  testCases.TC_002_LoginTest - Enter Valid Credentials
+23:26:53.705 [main] INFO  testCases.TC_002_LoginTest - Validate MyAccount Header Message in My Account Page
+23:26:53.732 [main] INFO  testCases.TC_002_LoginTest - *****Finished login Test*****
+23:31:17.571 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Launching Edge Browser
+23:31:42.444 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:31:44.774 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:31:46.390 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:31:46.470 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:32:26.081 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportUtility
+23:32:26.097 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportUtility
+23:32:37.333 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Launching Edge Browser
+23:32:48.037 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:32:48.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:33:22.928 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:33:23.043 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:33:26.819 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:33:26.819 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:33:28.045 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:33:28.085 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:33:34.461 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:33:42.506 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:33:42.584 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:33:45.945 [main] INFO  testCases.TC_002_LoginTest - Enter Valid Credentials
+23:33:49.121 [main] INFO  testCases.TC_002_LoginTest - Validate MyAccount Header Message in My Account Page
+23:33:49.322 [main] INFO  testCases.TC_002_LoginTest - *****Finished login Test*****
+23:33:51.720 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:34:14.752 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:34:14.833 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:34:15.827 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:34:15.827 [main] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:34:16.869 [main] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:34:16.907 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:34:24.236 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:34:27.196 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - Launching Edge Browser
+23:34:38.749 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:34:42.392 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:34:42.461 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:34:42.513 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:35:45.535 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:36:04.493 [TestNG-tests-2] INFO  testCases.TC_001_AccountregistrationTest - Launching Edge Browser
+23:36:23.412 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:36:57.702 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportUtility
+23:36:57.705 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : utilities.ExtentReportUtility
+23:36:57.886 [TestNG-tests-2] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:36:58.135 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:36:58.316 [TestNG-tests-2] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:37:28.385 [TestNG-tests-1] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:37:28.385 [TestNG-tests-1] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
+23:37:51.898 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Launching Edge Browser
+23:38:18.818 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:38:19.929 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:38:20.382 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:38:20.402 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:38:42.318 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:38:45.635 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:38:59.189 [TestNG-tests-2] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:38:59.191 [TestNG-tests-2] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
+23:39:33.878 [main] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:40:10.633 [main] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:40:10.717 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:40:11.084 [main] INFO  testCases.TC_002_LoginTest - Enter Valid Credentials
+23:40:11.990 [main] INFO  testCases.TC_002_LoginTest - Validate MyAccount Header Message in My Account Page
+23:40:12.178 [main] INFO  testCases.TC_002_LoginTest - *****Finished login Test*****
+23:40:54.302 [main] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:41:27.528 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:41:27.934 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:41:30.388 [main] INFO  testCases.TC_001_AccountregistrationTest - Clicked on register link
+23:41:30.388 [main] INFO  testCases.TC_001_AccountregistrationTest - Providing Customer Details
+23:41:31.477 [main] INFO  testCases.TC_001_AccountregistrationTest - Validating Expected Message
+23:41:31.535 [main] INFO  testCases.TC_001_AccountregistrationTest - *******Finished TC001 - Account Registration Test*******
+23:41:48.687 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Launching Chrome Browser
+23:41:55.464 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - Launching Edge Browser
+23:42:15.616 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:42:15.621 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - *****Started login Test*****
+23:42:15.746 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:42:15.780 [TestNG-tests-2] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+23:43:21.093 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Launching Chrome Browser
+23:43:23.325 [TestNG-tests-2] INFO  testCases.TC_001_AccountregistrationTest - Launching Edge Browser
+23:43:53.392 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:43:53.394 [TestNG-tests-2] INFO  testCases.TC_001_AccountregistrationTest - *******Starting TC001 - Account Registration Test*******
+23:43:53.479 [TestNG-tests-1] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:43:53.515 [TestNG-tests-2] INFO  testCases.TC_001_AccountregistrationTest - Clicked on myaccount link
+23:44:24.149 [TestNG-tests-1] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:44:24.149 [TestNG-tests-1] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
+23:44:54.225 [TestNG-tests-2] ERROR testCases.TC_001_AccountregistrationTest - Test Failed
+23:44:54.225 [TestNG-tests-2] ERROR testCases.TC_001_AccountregistrationTest - Debug logs...
